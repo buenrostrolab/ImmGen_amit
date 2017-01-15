@@ -17,7 +17,7 @@ library(reshape2)
 BiocParallel::register(BiocParallel::MulticoreParam(2, progressbar = TRUE))  # Update this with more cores if appropriate
 
 bed <- "../immgen_dat/ImmGenATAC1219.peak.bed"   # Point to new bed file with peaks
-bamdir <- "ATAC"  # Point to directory with bam files
+bamdir <- "../bamFiles/amit_atac_bam/"  # Point to directory with bam files
 
 bamfiles <- list.files(bamdir, full.names = TRUE, pattern = "\\.bam$")
 peaks <- get_peaks(bed, sort_peaks = FALSE)
