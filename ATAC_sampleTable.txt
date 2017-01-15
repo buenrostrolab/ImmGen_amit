@@ -1,0 +1,26 @@
+Run_s	cell_type_s	source_name_s
+SRR1533847	B cells	B cells
+SRR1533848	B cells	B cells
+SRR1533849	B cells	B cells
+SRR1533850	Granulocyte Monocyte Progenitor (GMP)	Granulocyte Monocyte Progenitor (GMP)
+SRR1533851	Granulocyte Monocyte Progenitor (GMP)	Granulocyte Monocyte Progenitor (GMP)
+SRR1533852	Monocytes	Monocytes
+SRR1533853	T CD4+ cells	T CD4+ cells
+SRR1533854	T CD4+ cells	T CD4+ cells
+SRR1533855	T CD4+ cells	T CD4+ cells
+SRR1533856	T CD4+ cells	T CD4+ cells
+SRR1533857	Granulocytes	Granulocytes
+SRR1533858	Granulocytes	Granulocytes
+SRR1533859	NK Cells	NK Cells
+SRR1533860	NK Cells	NK Cells
+SRR1533861	T CD8+ cells	T CD8+ cells
+SRR1533862	Lin-Sca1+Kit- bone marrow cells	Lin-Sca1+Kit- bone marrow cells
+SRR1533863	Lin-Sca1+Kit- bone marrow cells	Lin-Sca1+Kit- bone marrow cells
+SRR1533864	Lin-Sca1+Kit- bone marrow cells	Lin-Sca1+Kit- bone marrow cells
+SRR1533865	Common Myeloid Progenitor (CMP)	Common Myeloid Progenitor (CMP)
+SRR1533866	Common Myeloid Progenitor (CMP)	Common Myeloid Progenitor (CMP)
+SRR1533867	Common Myeloid Progenitor (CMP)	Common Myeloid Progenitor (CMP)
+SRR1533868	Megakaryocitic erythroyd progenitor (MEP)	Megakaryocitic erythroyd progenitor (MEP)
+SRR1533869	Megakaryocitic erythroyd progenitor (MEP)	Megakaryocitic erythroyd progenitor (MEP)
+SRR1533870	Megakaryocitic erythroyd progenitor (MEP)	Megakaryocitic erythroyd progenitor (MEP)
+SRR3001797	EryA cells	EryA cells
